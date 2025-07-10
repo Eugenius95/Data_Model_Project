@@ -31,7 +31,7 @@ This project explores how daily student habits such as study hours, sleep patter
 ## 📁 Dataset
 
 - File: `student_habits.csv`
-- Source: [IBM Sample Data]  
+- Source: [Kaggle]  
 - Features include:
   - `study_hours_per_day`
   - `sleep_hours`
